@@ -1,6 +1,3 @@
-D’accord — voici un **README complet** en français pour ton dépôt `irc` (ton projet IRC). Tu peux le copier‑coller à la racine de ton repo et l’adapter au besoin.
-
-````markdown
 # IRC
 
 ![C++](https://img.shields.io/badge/language-C++-blue.svg)  
